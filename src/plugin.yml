@@ -1,0 +1,12 @@
+name: ElytraWars
+main: net.Andrewcpu.Minigame.Elytra.Main
+version: 1.0
+commands:
+    queue:
+      permission: elytra.*
+    start:
+      permission: elytra.*
+    end:
+      permission: elytra.*
+    elytra:
+      permission: elytra.*

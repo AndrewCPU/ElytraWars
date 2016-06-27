@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ElytraWars:jar">
+    <output-path>J:/Servers/Minecraft/Minigame Test/plugins</output-path>
+    <root id="archive" name="ElytraWars.jar">
+      <element id="module-output" name="ElytraWars" />
+      <element id="extracted-dir" path="J:/Servers/Minecraft/Minigame Test/MinigameAPI.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
